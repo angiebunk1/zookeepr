@@ -101,11 +101,12 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Hailey",
+      "species": "Penguin",
+      "diet": "piscivore",
       "personalityTraits": [
-        "hungry"
+        "loving",
+        "goofy"
       ],
       "id": "10"
     }
