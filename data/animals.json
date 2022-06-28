@@ -99,16 +99,7 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Hailey",
-      "species": "Penguin",
-      "diet": "piscivore",
-      "personalityTraits": [
-        "loving",
-        "goofy"
-      ],
-      "id": "10"
     }
+    
   ]
 }
